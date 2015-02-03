@@ -5,6 +5,8 @@ Time da [ThoughtWorks](http://thoughtworks.com)
 
 * [Alexandre Klaser](mailto:aklaser@thoughtworks.com)
 * [Barbara Wolff Dick](mailto:bdick@thoughtworks.com)
+* [Clarissa Martins](mailto:cmartins@thoughtworks.com)
+* [Claudia Melo](mailto:cmelo@thoughtworks.com)
 * [Carlos Villela](mailto:cvillela@thoughtworks.com)
 * [Erick Pintor](mailto:epintor@thoughtworks.com)
 * [Jean Kirchner](mailto:jkirchne@thoughtworks.com)
